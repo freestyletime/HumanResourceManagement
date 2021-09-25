@@ -1,0 +1,24 @@
+#employee表
+    / gender 性别 [ 整形 0：女，1：男 ]
+    / education 教育背景 [ 整形 1：高中及以下，2：大专，3：本科，4：硕士，5: 博士及以上 ]
+    / status 员工状态 [ 1: 在职，2: 离职]
+    / peid 直接上级员工ID [ 为0时表示根节点 ]
+
+#post表
+
+#post_level表
+    / level 职级 [ 整形，数越大级别越高，通常初始化为1-8 对应职级的p1-p8]
+    /
+
+#department表
+    / did 部门ID [ 整形 等于1时代表根结点 ]
+    / pid 父部门ID [ 整形 等于0时代表根结点 ]
+
+salary表
+
+#salary_level表
+    / level 职级 [ 整形，与职级表中的level相对应]
+
+attendance表
+
+attendance_statistic表

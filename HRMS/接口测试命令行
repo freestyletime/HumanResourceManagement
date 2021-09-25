@@ -1,0 +1,8 @@
+# 管理员登陆接口
+curl -v -X POST -d "username=admin&password=123456" http://127.0.0.1:8080/employee/login
+# 获取公告接口
+curl -v -X POST http://127.0.0.1:8080/employee/banner
+# 获取所有员工接口
+curl -v -X POST -d "employee_id=1" http://127.0.0.1:8080/employee/get
+# 获取所有员工接口
+curl -v -X POST http://127.0.0.1:8080/employee/get_all
