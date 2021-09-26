@@ -4,6 +4,6 @@ __pycache__/
 .Python
 *.db
 
-/ven
+/venv
 /static
 /migrations
