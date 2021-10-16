@@ -1,4 +1,4 @@
-# HumanResourceManagement
+# HumanResourceManagement [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/freestyletime/FlutterNews/blob/master/LICENSE)
 My bachelor's thesis in 2020. 
 A human resource management includes server and mobile application.
 
