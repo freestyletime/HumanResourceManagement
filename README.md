@@ -3,20 +3,20 @@ My bachelor's thesis in 2020.
 A human resource management includes server and mobile application.
 
 
-* ±¾¿Æ±ÏÒµÂÛÎÄ - ÈËÁ¦×ÊÔ´¹ÜÀíÏµÍ³
-* ·ÖÎª¿Í»§¶Ë¸ú·şÎñ¶Ë
-* flutter_hrms Îª¿Í»§¶Ë´úÂë£¬²ÉÓÃflutter±àĞ´
-* HRMS Îª·şÎñ¶Ë´úÂë£¬²ÉÓÃpython(flask)±àĞ´£¬Êı¾İ¿âÎªsqlite3
+* æœ¬ç§‘æ¯•ä¸šè®ºæ–‡ - äººåŠ›èµ„æºç®¡ç†ç³»ç»Ÿ
+* åˆ†ä¸ºå®¢æˆ·ç«¯è·ŸæœåŠ¡ç«¯
+* HRMS_client ä¸ºå®¢æˆ·ç«¯ä»£ç ï¼Œé‡‡ç”¨flutterç¼–å†™
+* HRMS ä¸ºæœåŠ¡ç«¯ä»£ç ï¼Œé‡‡ç”¨python(flask)ç¼–å†™ï¼Œæ•°æ®åº“ä¸ºsqlite3
 
 
 ## Detail
 * description.pdf
 
-## ÔËĞĞÏîÄ¿
+## è¿è¡Œé¡¹ç›®
 
-»ñÈ¡¸ü¶àFlutterµÄĞÅÏ¢£¬Çë²éÔÄÔÚÏß[ÎÄµµ](https://flutter.io/)
+è·å–æ›´å¤šFlutterçš„ä¿¡æ¯ï¼Œè¯·æŸ¥é˜…åœ¨çº¿[æ–‡æ¡£](https://flutter.io/)
 
-#### ¿ËÂ¡ÏîÄ¿
+#### å…‹éš†é¡¹ç›®
 
 ```sh
 $ git clone https://github.com/freestyletime/HumanResourceManagement
