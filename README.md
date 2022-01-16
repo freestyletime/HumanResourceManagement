@@ -4,9 +4,13 @@ A human resource management includes server and mobile application.
 
 
 * 本科毕业论文 - 人力资源管理系统
+* My bachelor's thesis - Human Resource Management System
 * 分为客户端跟服务端
-* HRMS_client 为客户端代码，采用flutter编写
+* Two parts inlude mobile application and server respectively
+* HRMS_client 为客户端代码，采用Flutter编写
+* HRMS_client is a folder containing the code of mobile application which adopts Flutter
 * HRMS 为服务端代码，采用python(flask)编写，数据库为sqlite3
+* HRMS is a folder containing code of server which adopts python(3.x)/(flask)
 
 
 ## Detail
