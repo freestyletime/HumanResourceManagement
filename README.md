@@ -1,31 +1,40 @@
 # HumanResourceManagement [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/freestyletime/FlutterNews/blob/master/LICENSE)
-My bachelor's thesis in 2020. 
-A human resource management includes server and mobile application.
+This project is my bachelor's thesis in January 2020, A simply human resource management includes server and mobile application(Android & IOS).
 
 
-* 本科毕业论文 - 人力资源管理系统
-* My bachelor's thesis - Human Resource Management System
-* Two parts inlude mobile application and server respectively 分为客户端跟服务端
-* HRMS_client 为客户端代码，采用Flutter编写
-* HRMS_client is a folder containing the code of mobile application which adopts Flutter
-* HRMS 为服务端代码，采用python(flask)编写，数据库为sqlite3
-* HRMS is a folder containing code of server which adopts python(3.x)/(flask)
+## Dependencies
+1. [📱 Client](./HRMS_CLIENT):
+    - Flutter 1.0.0+1
+    - http: ^0.12.0
+    - marquee: ^1.3.1
+    - get_it: ^1.0.3+2
+    - tree_view: ^0.0.5
+    - event_bus: ^1.1.0
+    - url_launcher: ^5.0.3
+    - connectivity: ^0.4.6+1
+    - cupertino_icons: ^0.1.2
+    - modal_progress_hud: ^0.1.3
+2. [☁️ Server](./HRMS):
+    - Python 3.7
+    - Flask 2.1.1
+    - Flask-Migrate 2.6.0
+    - Flask-Script 2.0.6
+    - SQLAlchemy 1.4.35
+    - pypinyin 0.46.0
+    - dataclasses 0.6
+    - dataclasses-json 0.5.7
 
+## Statistics
 
-## Detail
-* description.pdf
+- ☁️ ___27 HTTP POST Web Interfaces.___
+- 📱 ___21 Phone Pages.___
 
-## 运行项目
-
-获取更多Flutter的信息，请查阅在线[文档](https://flutter.io/)
-
-#### 克隆项目
+## Project Clone
 
 ```sh
 $ git clone https://github.com/freestyletime/HumanResourceManagement
 $ cd HumanResourceManagement/
 ```
-
 
 # LICENSE
 The MIT License (MIT)
