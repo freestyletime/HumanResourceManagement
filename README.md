@@ -3,7 +3,7 @@ This project is my bachelor's thesis in January 2020, A simply human resource ma
 
 
 ## Dependencies
-1. [📱 Client](./HRMS_CLIENT):
+1. [📱 Client](https://github.com/freestyletime/HumanResourceManagement/tree/main/HRMS_client):
     - Flutter 1.0.0+1
     - http: ^0.12.0
     - marquee: ^1.3.1
@@ -14,7 +14,7 @@ This project is my bachelor's thesis in January 2020, A simply human resource ma
     - connectivity: ^0.4.6+1
     - cupertino_icons: ^0.1.2
     - modal_progress_hud: ^0.1.3
-2. [☁️ Server](./HRMS):
+2. [☁️ Server](https://github.com/freestyletime/HumanResourceManagement/tree/main/HRMS):
     - Python 3.7
     - Flask 2.1.1
     - Flask-Migrate 2.6.0
