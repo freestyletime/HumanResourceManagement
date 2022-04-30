@@ -3,7 +3,6 @@
 This document includes all the mobile application code. Everything is easily to understand if you are familiar with the flutter. Specially, I hope my project is kindly helpful to you.
 
 ## Features
-
 * [Service.dart](lib/Service.dart) shows all the available services in the programs by using get_it.
 ```dart
 class Service {
@@ -35,8 +34,8 @@ class Service {
 ...
 ```
 * [All the pages](./lib/pages) are contained here.
-* [All the widgets](./lib/widgets) are contained here.
 * [All the network files](./lib/api) are contained here.
+* [All the widgets](./lib/widgets) are contained here. [BasePage.dart](./lib/pages/BasePage.dart) is a template class that encapsulates the general web request flow and united UI style.
 * [All the events](./lib/events) are contained here, which is supported by event_bus and able to curry the data the page needed.
 * [All the beans](./lib/models) are contained here. All the beans should implement [IBean.dart](.lib/models/IBean.dart) that represents the data format the page needed. [IModel.dart](./lib/models/IModel.dart) represents the basic web interface format we predefined.
 ```json
