@@ -5,15 +5,15 @@ This project is my bachelor's thesis in January 2020, A simply human resource ma
 ## Dependencies
 1. [📱 Client](https://github.com/freestyletime/HumanResourceManagement/tree/main/HRMS_client):
     - Flutter 1.0.0+1
-    - http: ^0.12.0
-    - marquee: ^1.3.1
-    - get_it: ^1.0.3+2
-    - tree_view: ^0.0.5
-    - event_bus: ^1.1.0
-    - url_launcher: ^5.0.3
-    - connectivity: ^0.4.6+1
-    - cupertino_icons: ^0.1.2
-    - modal_progress_hud: ^0.1.3
+    - http 0.12.0
+    - marquee 1.3.1
+    - get_it 1.0.3+2
+    - tree_view 0.0.5
+    - event_bus 1.1.0
+    - url_launcher 5.0.3
+    - connectivity 0.4.6+1
+    - cupertino_icons 0.1.2
+    - modal_progress_hud 0.1.3
 2. [☁️ Server](https://github.com/freestyletime/HumanResourceManagement/tree/main/HRMS):
     - Python 3.7
     - Flask 2.1.1
