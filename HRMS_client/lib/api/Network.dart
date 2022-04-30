@@ -8,7 +8,7 @@ class NetWork {
   // debug模式
   static bool _debug = true;
   // 配置自己的服务器IP
-  static String host = "http://192.168.31.24";
+  static String host = "http://127.0.0.1";
 
   /* 判断是否联网 */
   static Future<bool> isConnected() async {

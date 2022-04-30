@@ -1,6 +1,5 @@
 import 'package:flutter_hrms/models/EmployeeBean.dart';
 import 'package:flutter_hrms/models/Post.dart';
-import 'package:flutter_hrms/models/PostLevel.dart';
 
 import 'IBean.dart';
 
